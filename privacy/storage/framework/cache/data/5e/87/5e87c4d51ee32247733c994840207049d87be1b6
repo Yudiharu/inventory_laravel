@@ -1,0 +1,1 @@
+1662519046a:1:{i:0;a:7:{s:2:"id";i:41;s:4:"name";s:11:"user_andina";s:12:"display_name";s:11:"User Andina";s:11:"description";N;s:10:"created_at";s:19:"2021-06-24 09:41:59";s:10:"updated_at";s:19:"2021-06-24 09:41:59";s:5:"pivot";a:3:{s:7:"user_id";i:152;s:7:"role_id";i:41;s:9:"user_type";s:8:"App\User";}}}

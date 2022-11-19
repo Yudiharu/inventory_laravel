@@ -1,0 +1,1 @@
+1663413135a:1:{i:0;a:7:{s:2:"id";i:85;s:4:"name";s:11:"richart_pbm";s:12:"display_name";s:19:"User Richart Cabang";s:11:"description";N;s:10:"created_at";s:19:"2022-01-24 11:02:57";s:10:"updated_at";s:19:"2022-01-24 11:02:57";s:5:"pivot";a:3:{s:7:"user_id";i:239;s:7:"role_id";i:85;s:9:"user_type";s:8:"App\User";}}}

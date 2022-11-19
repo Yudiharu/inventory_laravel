@@ -1,0 +1,1 @@
+1663414177a:1:{i:0;a:7:{s:2:"id";i:106;s:4:"name";s:9:"idrus_mip";s:12:"display_name";s:9:"Idrus MIP";s:11:"description";N;s:10:"created_at";s:19:"2022-06-04 10:41:41";s:10:"updated_at";s:19:"2022-06-04 10:41:41";s:5:"pivot";a:3:{s:7:"user_id";i:351;s:7:"role_id";i:106;s:9:"user_type";s:8:"App\User";}}}

@@ -1,0 +1,1 @@
+1646977525a:1:{i:0;a:7:{s:2:"id";i:80;s:4:"name";s:12:"sujatno_emkl";s:12:"display_name";s:7:"Sujatno";s:11:"description";N;s:10:"created_at";s:19:"2021-11-29 10:06:38";s:10:"updated_at";s:19:"2021-11-29 10:06:38";s:5:"pivot";a:3:{s:7:"user_id";i:209;s:7:"role_id";i:80;s:9:"user_type";s:8:"App\User";}}}

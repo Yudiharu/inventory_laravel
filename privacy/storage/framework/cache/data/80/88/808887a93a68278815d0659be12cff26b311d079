@@ -1,0 +1,1 @@
+1661763696a:1:{i:0;a:7:{s:2:"id";i:23;s:4:"name";s:10:"novita_sub";s:12:"display_name";s:10:"Novita SUB";s:11:"description";s:11:"User Novita";s:10:"created_at";s:19:"2020-08-19 09:46:38";s:10:"updated_at";s:19:"2021-10-26 09:13:47";s:5:"pivot";a:3:{s:7:"user_id";i:10;s:7:"role_id";i:23;s:9:"user_type";s:8:"App\User";}}}

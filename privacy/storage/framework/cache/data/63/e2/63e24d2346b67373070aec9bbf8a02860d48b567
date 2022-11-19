@@ -1,0 +1,1 @@
+1663388087a:1:{i:0;a:7:{s:2:"id";i:81;s:4:"name";s:12:"fernando_pbm";s:12:"display_name";s:12:"Fernando PBM";s:11:"description";N;s:10:"created_at";s:19:"2021-12-08 10:22:24";s:10:"updated_at";s:19:"2021-12-08 10:22:24";s:5:"pivot";a:3:{s:7:"user_id";i:213;s:7:"role_id";i:81;s:9:"user_type";s:8:"App\User";}}}
